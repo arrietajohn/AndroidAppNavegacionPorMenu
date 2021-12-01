@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EjemploNavegacionSemana5Udea</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="titilo_frag1">FRAGMENETO 1</string>
+    <string name="titulo_frag2">FRAGMENETO 2</string>
+    <string name="eti_titulo_app_main">EJEMPLO DE NAVEGACION </string>
+    <string name="titulo_menu">MENU PRINCIPAL</string>
+</resources>
